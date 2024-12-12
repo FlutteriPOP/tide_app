@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "895584626282",
+    "project_id": "track-tide",
+    "storage_bucket": "track-tide.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895584626282:android:bceb4e619c1a38c122cc13",
+        "android_client_info": {
+          "package_name": "com.ipop.tracktide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIxXloyVQLWb7XxJAgVIvO2X_bfwJbtuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895584626282:android:61b0196a65964de822cc13",
+        "android_client_info": {
+          "package_name": "com.ipop.tracktide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIxXloyVQLWb7XxJAgVIvO2X_bfwJbtuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895584626282:android:3ab8e6f404674f7122cc13",
+        "android_client_info": {
+          "package_name": "com.ipop.tracktide.tracktide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIxXloyVQLWb7XxJAgVIvO2X_bfwJbtuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+  <dict>
+    <key>method</key>
+    <string>app-store</string> <!-- or "ad-hoc" for ad-hoc distribution -->
+    <key>teamID</key>
+    <string>5FL2M3T355</string>
+    <key>bundleIdentifier</key>
+    <string>com.ipop.tracktide</string>
+    <key>uploadSymbols</key>
+    <true/>
+    <key>compileBitcode</key>
+    <true/>
+  </dict>
+</plist>
